@@ -1,0 +1,14 @@
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\bin\Debug\net6.0\Task2-Silah atisi.exe
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\bin\Debug\net6.0\Task2-Silah atisi.deps.json
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\bin\Debug\net6.0\Task2-Silah atisi.runtimeconfig.json
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\bin\Debug\net6.0\Task2-Silah atisi.dll
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\bin\Debug\net6.0\Task2-Silah atisi.pdb
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\obj\Debug\net6.0\Task2-Silah atisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\obj\Debug\net6.0\Task2-Silah atisi.AssemblyInfoInputs.cache
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\obj\Debug\net6.0\Task2-Silah atisi.AssemblyInfo.cs
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\obj\Debug\net6.0\Task2-Silah atisi.csproj.CoreCompileInputs.cache
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\obj\Debug\net6.0\Task2-Silah atisi.dll
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\obj\Debug\net6.0\refint\Task2-Silah atisi.dll
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\obj\Debug\net6.0\Task2-Silah atisi.pdb
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\obj\Debug\net6.0\Task2-Silah atisi.genruntimeconfig.cache
+C:\Users\Feteli Isgenderov\source\repos\Task2-Silah atisi\Task2-Silah atisi\obj\Debug\net6.0\ref\Task2-Silah atisi.dll
